@@ -27,4 +27,4 @@ Requests tested:
 ## Skills
 Manual Testing | JIRA | Test Case Design | 
 Exploratory Testing | SQL Basics | Postman Basics | Agile/Scrum
-<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/your-username/your-repository/your-branch/your-pdf-file.pdf&embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+
